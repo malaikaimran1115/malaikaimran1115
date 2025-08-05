@@ -1,7 +1,7 @@
 👋 Hi, I’m @malaikaimran1115.
 👀 I’m interested in frontend development.
 🌱 I’m currently learning back end development.
-📫 How to reach me 03254022426 or malaikaimranchohan@gmail.com.
+📫 How to reach me 03254022426 or devmalaika1@gmail.com.
 ⚡ Fun fact:coding
 
 <!---
